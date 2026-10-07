@@ -1,18 +1,15 @@
 ﻿using System; 
 
-namespace MiPrimeraClase
+namespace MiPrimerClase
 {
     class Program
     {
         static void Main()
         {
-            int numero=5;
-            for (int i=1; i<=12; i++)
-            {
-                int resultado=numero*i;
-                Console.WriteLine($"{numero} x {i} = {resultado}");
-            }  
-            
+            Console.WriteLine("Hola, por favor ingresa tu nombre:");
+            string? nombre = Console.ReadLine();
+            Console.WriteLine($"¡¿Hola {nombre}, bienvenido a este espacio de aprendizaje en C#!");
+
         }
     }
 }

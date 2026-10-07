@@ -12,3 +12,4 @@ D:\1 IUMAFIS\4to semestre\7. Lenguaje de programación ll\CSharp y .NET\obj\Debu
 D:\1 IUMAFIS\4to semestre\7. Lenguaje de programación ll\CSharp y .NET\obj\Debug\net10.0\CSharp y .NET.pdb
 D:\1 IUMAFIS\4to semestre\7. Lenguaje de programación ll\CSharp y .NET\obj\Debug\net10.0\CSharp y .NET.genruntimeconfig.cache
 D:\1 IUMAFIS\4to semestre\7. Lenguaje de programación ll\CSharp y .NET\obj\Debug\net10.0\ref\CSharp y .NET.dll
+D:\1 IUMAFIS\4to semestre\7. Lenguaje de programación ll\CSharp y .NET\obj\Debug\net10.0\CSharp y .NET.sourcelink.json
